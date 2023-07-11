@@ -15,7 +15,7 @@ Using A* searching algorithm!
 
 We solve the puzzle by moving the tiles around. For each step, we can only move one of the neighbor tiles (left, right, top, and bottom but not diagonally) into an empty grid. And all tiles must stay in the 3x3 grid (so no wrap-around allowed). An example is shown in the picture below. Suppose
 we start from the following initial state:
-<img width="1049" alt="moves_n2" src="https://github.com/YangCheng27/Intelligent-A-star-Puzzle-Solver-Finding-the-Optimal-Solution/assets/56757171/a38b609f-596d-44c1-a8fe-8ced8744dc98">
+<img width="980" alt="moves_n2" src="https://github.com/YangCheng27/Intelligent-A-star-Puzzle-Solver-Finding-the-Optimal-Solution/assets/56757171/a38b609f-596d-44c1-a8fe-8ced8744dc98">
 
 
 
